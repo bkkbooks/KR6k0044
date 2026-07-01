@@ -1,0 +1,122 @@
+canonical_identifier: bkk:krp/KR6k0044/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0044/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 毘尼母經
+  identifiers:
+    krp: KR6k0044
+    cbeta: T24n1463
+    cbeta_old_id: T24n1463
+    authorityid: CA0002388
+    json_key: T1463
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T24/T24n1463.xml
+    old_id: T24n1463
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0044_000-T.yaml, hash: 'sha256:9486004a2d874212a2d15f5cd8914a66703a854213d4be51b5fcd4638111f521'}
+  - {seq: 1, filename: KR6k0044_001-T.yaml, hash: 'sha256:d2d23740c004e9d2a3df7b5c52f007b6f7568d6cdc6611e31fe7408c92e76322'}
+  - {seq: 2, filename: KR6k0044_002-T.yaml, hash: 'sha256:92ee06a7c709e641af116388c956ebfb95bbe0be54cc9450b9f7451e22ff9fab'}
+  - {seq: 3, filename: KR6k0044_003-T.yaml, hash: 'sha256:1a0e73a52da20a978fe542f2f6baed4315883773cb2afa6fb8a4abe6266e6a1e'}
+  - {seq: 4, filename: KR6k0044_004-T.yaml, hash: 'sha256:ffebc86aa9ff2542b118e00e2c0ac77d79b3959a7deb76baa36a9fef9e2eaa26'}
+  - {seq: 5, filename: KR6k0044_005-T.yaml, hash: 'sha256:8566c28397ffd7906973be9f62d988df3f5c8fb79b567c058be13eb11e79d4d3'}
+  - {seq: 6, filename: KR6k0044_006-T.yaml, hash: 'sha256:e8a70770d5f641e97af0d576fdb6be6bca3572fb956c8fc1e137576df674ee17'}
+  - {seq: 7, filename: KR6k0044_007-T.yaml, hash: 'sha256:e0b9468010372da825fe9d68a48b29be3e50591e109b47b435c8ee10dd83cc07'}
+  - {seq: 8, filename: KR6k0044_008-T.yaml, hash: 'sha256:17df83a5c38907894ad934910e1a0a796375d85b757e8a531a508b15c3d6abc2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0044_000-T.markers.yaml, hash: 'sha256:efd16d12962441270fd5c1decdcdfde7b5ad953ce15e569b3929ffe574c292a4'}
+  - {seq: 1, role: markers, filename: assets/KR6k0044_001-T.markers.yaml, hash: 'sha256:c30ba9ea272973cc20a00b54b4573c995c61c22c2f2869b346c7dd3a58004e5f'}
+  - {seq: 2, role: markers, filename: assets/KR6k0044_002-T.markers.yaml, hash: 'sha256:893a5336b11b8d43cef6de0f8ff004a3d1b853b57282944f5635c3d1bd44c730'}
+  - {seq: 3, role: markers, filename: assets/KR6k0044_003-T.markers.yaml, hash: 'sha256:1b813bf82b4b8e759620a8c6688cf72cc74fd326c1b02043dc2a19d6f5ddb85e'}
+  - {seq: 4, role: markers, filename: assets/KR6k0044_004-T.markers.yaml, hash: 'sha256:05e3e85957492dd48f5c711f8e6972d77f916406b45e9e217a4ca7ac056c4504'}
+  - {seq: 5, role: markers, filename: assets/KR6k0044_005-T.markers.yaml, hash: 'sha256:bc10b6a919d1218962c275175db51669b87d8d5573f916dbb85867c7a076f2ff'}
+  - {seq: 6, role: markers, filename: assets/KR6k0044_006-T.markers.yaml, hash: 'sha256:cfaa323385ed18972ba51ab786621b560323ebc291def1c94a032c07512463bb'}
+  - {seq: 7, role: markers, filename: assets/KR6k0044_007-T.markers.yaml, hash: 'sha256:2bbc604a9e3a8c6bf4ba5d7a6690b25f2c48a2ae68d8350cae55517d9ecbeed9'}
+  - {seq: 8, role: markers, filename: assets/KR6k0044_008-T.markers.yaml, hash: 'sha256:bcb6624fc603204bd1656bdd86e61c2f68e7d5b3d8bf23f2090032f7c891385c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0044_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8601
+  label: 毘尼母經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0044_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8449
+  label: 毘尼母經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0044_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8648
+  label: 毘尼母經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0044_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 8786
+  label: 毘尼母經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0044_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7660
+  label: 毘尼母經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0044_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 11613
+  label: 毘尼母經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0044_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7164
+  label: 毘尼母經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0044_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 9703
+  label: 毘尼母經卷第八
+  type: juan
+  level: 1
+hash: sha256:bc0689b9a7ef13305e1d9feb4f29a32e3857d20eee6baabd9dde993bcdb9993b
